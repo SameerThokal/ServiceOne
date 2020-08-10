@@ -1,2 +1,2 @@
 # ServiceOne
-Commit Sample 1 
+Sample Commit 1 
